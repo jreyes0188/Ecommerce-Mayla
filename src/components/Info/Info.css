@@ -1,0 +1,14 @@
+.Info-Personal{
+    display: flex;
+    background: rgb(68, 206, 206);
+    width: 100%;
+    height: 40px;
+}
+
+h4{
+display: flex;
+justify-content: space-around;
+align-items: center;
+width: 100%;
+color: rgb(255, 255, 255);
+}

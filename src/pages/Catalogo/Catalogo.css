@@ -1,0 +1,5 @@
+.Catalogo{
+    display: flex;
+    flex-direction: column;
+
+}

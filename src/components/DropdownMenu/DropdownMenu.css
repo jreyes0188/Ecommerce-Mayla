@@ -1,0 +1,11 @@
+.desplegable span {
+    color: rgb(0, 0, 0);
+}
+
+.desplegable{
+    width: 15px;
+    height: 15px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}

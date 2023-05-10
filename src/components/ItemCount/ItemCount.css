@@ -1,0 +1,23 @@
+.counter {
+    width: fit-content;
+    background-color: rgb(68, 206, 206);
+    text-align: center;
+    margin-top: 10px;
+    height: 70px;
+}
+
+.counter Button {
+    font-size: 2.5rem;
+    background-color: aliceblue;
+    margin-top: 10px;
+    height: 35px;
+}
+
+.counter span {
+    font-size: 1.5rem;
+}
+
+.counter Button:hover{
+    background-color: rgb(87, 168, 245);
+}
+
